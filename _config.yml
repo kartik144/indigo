@@ -34,9 +34,9 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: kartik.srivastava1
+# facebook: None
 twitter: kartik_144
-instagram: kartik_144
+# instagram: None
 # pinterest: mypinterest
 linkedin: kartik-srivastava-3545b8b9
 # youtube: myyoutube
