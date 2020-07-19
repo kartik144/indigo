@@ -6,5 +6,5 @@ layout: page
 
 <p>
 I am a Software Developer at Amazon Web Services (AWS) where
-I work on <a href="https://docs.aws.amazon.com/elasticsearch-service/index.html">AWS ElaticSearch service</a>. 
+I work on <a href="https://docs.aws.amazon.com/elasticsearch-service/index.html">AWS ElasticSearch service</a>. 
 </p>
